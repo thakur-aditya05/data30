@@ -16,7 +16,7 @@ print("Number of Dimensions:", matrix.ndim)
 
 
 
-# answer 2 
+# answer @2
 
 # Set parameters for the normal distribution
 mean = 0

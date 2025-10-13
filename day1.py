@@ -12,9 +12,7 @@ age = int(age)  # Convert age to an integer
 
 # Print the greeting using an f-string
 print(f"Hello {name}, you are {age} years old")
-
-
-
+# f-string is used to format the string and it is available in python 3.6 and above
 # size 
 import sys
 

@@ -26,7 +26,7 @@ def save_primes_to_file(prime_list, filename):
             f.write(str(p) + "\n")
 
 
-# Use karte hain
+
 primes_1_to_100 = generate_primes(1, 100)
 print("Primes between 1 and 100:", primes_1_to_100)
 

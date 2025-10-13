@@ -6,7 +6,7 @@ students = {
     "Bob": 92,
     "Charlie": 78,
     "David": 96,
-    "Eva": 89
+    "Eva": 89 
 }
 
 # Method 1: loop se manually karna

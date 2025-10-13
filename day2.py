@@ -22,8 +22,7 @@ while i <= 10:
 
 
 
-
-
+#  
 #  break, continue, pass with examples
 # break is use for exiting the loop
 # continue is use for skipping the current iteration
