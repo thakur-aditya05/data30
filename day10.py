@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
+
+
 # Sample data
 data = {
     "month": ["Jan", "Feb", "Mar", "Apr", "May", "Jun",

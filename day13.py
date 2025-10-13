@@ -1,6 +1,9 @@
 import numpy as np
 from scipy import stats
 
+
+
+
 # Sample data
 x = np.array([10, 20, 30, 40, 50, 60, 70, 80])
 y = np.array([12, 24, 33, 47, 54, 66, 75, 89])

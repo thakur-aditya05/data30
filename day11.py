@@ -1,6 +1,10 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+
+
+
+
 # 1. Load the tips dataset
 tips = sns.load_dataset("tips")
 

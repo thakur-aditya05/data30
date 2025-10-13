@@ -21,5 +21,7 @@ df2['science'] = df2['science'].fillna(science_mean)
 # 4. Group by a column and compute average of another column
 grouped = df2.groupby('class')['science'].mean().reset_index()
 
+
+# Average science marks by class (after cleaning):
 print("Average science marks by class (after cleaning):")
 print(grouped)

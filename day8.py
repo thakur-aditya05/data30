@@ -15,6 +15,6 @@ print(df.head())
 print("\n===== Summary Statistics (numeric columns) =====")
 print(df.describe())
 
-# 5 Summary including non-numeric columns (e.g. names, categories)
+# 5 Summary including non-numeric columns 
 print("\n===== Summary (all columns) =====")
 print(df.describe(include='all'))
