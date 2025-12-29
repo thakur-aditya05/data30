@@ -1,1 +1,0 @@
-# i have to revise opps have very less understading in the loops 
